@@ -97,7 +97,7 @@ p {
     width: 100%;
     height: 300px;
     background-color: rgba(0, 0, 0, 0.116);
-    background-image: url("/Projeto HTML/img/slide.png");
+    background-image: url("https://raw.githubusercontent.com/douleal/BlogTemplates/main/img/slide.png");
     background-size: cover;
     background-position: 0px -20px;
     margin-bottom: 50px;
